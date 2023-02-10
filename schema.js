@@ -3,7 +3,8 @@
 
 
 //import schema types from any plugins that might expose them
-
+import createSchema from "part:@sanity/base/schema-creator";
+import schemaTypes from "all:part:@sanity/base/schema-type";
 
 //impoerted the testimonials.js file 
 import testimonials from './testimonials'

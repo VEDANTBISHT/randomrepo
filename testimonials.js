@@ -20,7 +20,7 @@ export default{
             title: 'ImgURL',
             type: 'image',
             options: {
-                hotspot: true, //hotspot means the person can choose to crop the image while uploading//
+                hotspot: true, 
 
             }
 

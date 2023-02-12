@@ -1,3 +1,4 @@
+//impoerted in the schma.js file in the repo.
 //schema for the website
 export default{
     name: 'testimonisls',

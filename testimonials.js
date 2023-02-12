@@ -39,5 +39,5 @@ export default{
 
 
 // functions showbars(move)
-//container.innerHTML+""
+
 

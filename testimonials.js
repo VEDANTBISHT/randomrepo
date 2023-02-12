@@ -27,7 +27,7 @@ export default{
         },
         {
             name: '',
-            title: 'geedback',
+            title: 'Feedback',
             type: 'string',
 
         },

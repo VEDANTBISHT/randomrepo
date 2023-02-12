@@ -40,4 +40,4 @@ export default{
 
 // functions showbars(move)
 //container.innerHTML+""
-//for(lwt i=0;i<array.length;i++)
+

@@ -1,3 +1,4 @@
+//schema for the website
 export default{
     name: 'testimonisls',
     title: 'testimonials',

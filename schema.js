@@ -16,7 +16,7 @@ export default createSchema({
     //name of my schema
     name: 'default',
     //proceed to concatenate our document type
-    //to the ones provided by any plugins that are installed
+  
 
     type: 'schemaTypes.contact'([
         testimonials

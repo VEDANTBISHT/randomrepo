@@ -15,7 +15,7 @@ export default createSchema({
 
     //name of my schema
     name: 'default',
-    //then we give our schema to the builder and provide the result to the sanity
+    
   
 
     type: 'schemaTypes.contact'([

@@ -10,7 +10,7 @@ import testimonials from './testimonials'
 
 
 export const schemaTypes = [testimonials]
-//then we give our schema to the builder and provide the result to the sanity
+
 export default createSchema({
 
     //name of my schema

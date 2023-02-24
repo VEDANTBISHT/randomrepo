@@ -1,4 +1,4 @@
-//impoerted in the schma.js file in the repo.
+
 
 export default{
     name: 'testimonisls',
